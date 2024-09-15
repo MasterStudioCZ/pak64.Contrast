@@ -1,0 +1,46 @@
+Objects solely by me can be used under either the 
+GPL 3 or under the artistic license (you choose).
+Objects by others can be used under the artistic
+license. 
+
+Kristian
+
+#################################################
+
+Roads
+Kristian Koerselman
+
+Tracks
+Timothy Baldock
+Kristian Koerselman
+
+Crossings
+Kristian Koerselman
+
+Bridges
+Hansjoerg Malthaner
+Kristian Koerselman
+
+Vehicles
+Kristian Koerselman
+
+Buildings
+Kristian Koerselman
+
+Stations and stops
+Kristian Koerselman
+
+Tunnel
+Timothy Baldock
+Kristian Koerselman
+
+Signals
+Prissi
+Kristian Koerselman
+
+Other
+Various
+
+#################################################
+
+EOF

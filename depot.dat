@@ -1,0 +1,49 @@
+Obj=building
+Name=TrainDepot
+# must be 1*1
+Dims=1,1,1
+noconstruction=1
+NoInfo=1
+BackImage[0][0][0][0][0][0]=buildings.4.2
+icon=> buildings.4.4
+cursor=bdz.0.0
+--------------------
+Obj=building
+Name=TramDepot
+# must be 1*1
+Dims=1,1,1
+NoInfo=1
+noconstruction=1
+BackImage[0][0][0][0][0][0]=buildings.4.3
+icon=> buildings.4.5
+cursor=bdz.0.0
+--------------------
+Obj=building
+Name=ShipDepot
+# must be 1*1
+NoInfo=1
+noconstruction=1
+BackImage[0][0][0][0][0][0]=buildings.6.2
+icon=> buildings.6.4
+cursor=bdz.0.0
+--------------------
+Obj=building
+Name=AirDepot
+# must be 1*1
+Dims=1,1,2
+NoInfo=1
+BackImage[0][0][0][0][0][0]=buildings.7.3
+BackImage[1][0][0][0][0][0]=buildings.6.3
+icon=> buildings.6.5
+cursor=bdz.0.0
+--------------------
+Obj=building
+Name=CarDepot
+type=depot
+waytype=road
+# must be 1*1
+NoInfo=1
+BackImage[0][0][0][0][0][0]=buildings.4.6
+icon=> buildings.5.5
+cursor=bdz.0.0
+--------------------
